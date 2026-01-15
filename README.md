@@ -2,6 +2,10 @@
 
 A modern, TypeScript-based tic-tac-toe game rendered on HTML5 Canvas with a sleek UI and smooth animations.
 
+## 🎮 [Play the Game Live](https://manuelbv.github.io/tic-tac-toe/)
+
+Try it now at: **https://manuelbv.github.io/tic-tac-toe/**
+
 ## Features
 
 - 🎮 Two-player gameplay (X vs O)
@@ -64,6 +68,15 @@ Preview the production build locally:
 ```bash
 npm run preview
 ```
+
+### Deploy to GitHub Pages
+
+Deploy the game to GitHub Pages:
+```bash
+npm run deploy
+```
+
+This will build the project and publish it to the `gh-pages` branch.
 
 ## How to Play
 
