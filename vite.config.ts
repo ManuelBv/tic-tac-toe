@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: './',
+  base: '/tic-tac-toe/',
   build: {
     outDir: 'dist',
     minify: 'terser',
